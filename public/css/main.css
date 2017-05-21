@@ -1,4 +1,76 @@
+.paddingTop{
+  padding-top:50px;
+}
 
+.pic{
+   max-width:60%;
+  max-height:50%;
+  padding-top: 75px;
+}
+
+.block{
+  background-color:black;
+  opacity:.5;
+  margin-right: 600px;
+  padding: 5px;
+  border-radius:5px;
+}
+
+.nav-pills{
+  
+    font-size:20px;
+  background-color:white;
+  opacity:.5;
+  
+}
+
+body{
+  background-color:black;
+  font-family:Roboto Mono;
+  color:white;
+}
+
+.btn-default{
+  background-color:black;
+  opacity:.5;
+  margin-right:auto;
+  margin-left:auto;
+}
+h1{
+  font-size: 60px;
+}
+
+.pageOne{
+  background:url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZZUE3YZHH4M/v1/1200x-1.jpg);
+  background-size:cover;
+  height: 700px;
+  margin-top:0px;
+}
+
+.pageTwo{
+  background:url("http://4.bp.blogspot.com/-Vj5F_ll3sZg/TonmHvH40sI/AAAAAAAAADY/UDgNH_4_Aes/s1600/BAC%2525205_9.jpg");
+  background-size:cover;
+  height:800px;
+  
+}
+
+.pageThree{
+  background:url("https://www.walldevil.com/wallpapers/w02/795404-black-and-white-landscapes-nature-trees.jpg");
+  background-size:cover;
+  height:800px;
+  
+}
+
+.pageFour{
+  background:url("http://wallpaper-gallery.net/images/high-definition-black-and-white-wallpapers/high-definition-black-and-white-wallpapers-22.jpg");
+  background-size:cover;
+  height:400px;
+}
+
+.footer{
+  background-color:black;
+  margin-bottom:5px;
+}
 
 /* ==========================================================================
    Author's custom styles

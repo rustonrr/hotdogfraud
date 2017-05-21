@@ -76,19 +76,16 @@ h1{
    Author's custom styles
    ========================================================================== */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Scott Traver for ticker */
+.fraud-display {
+    border: 2px solid red;
+    border-radius: 2em;
+    display: inline-block;
+    font-family: monospace;
+    font-size: 3em;
+}
+.fraud-display h1{
+    margin: 5px 20px;
+}
 
 

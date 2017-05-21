@@ -1,7 +1,3 @@
-require 'rack-livereload'
-
-use Rack::LiveReload
-
 use Rack::Static,
   :urls => ["/images", "/js", "/css"],
   :root => "public"
@@ -16,7 +12,3 @@ run lambda { |env|
     File.open('public/index.html', File::RDONLY)
   ]
 }
-
-
-
-use Rack::LiveReload
